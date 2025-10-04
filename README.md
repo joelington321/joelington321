@@ -2,15 +2,16 @@
 
 <p align="center">
   Software Engineer | Master’s Student in Computer Science (UFOP) <br/>
-  Focused on scalable web & mobile apps, APIs, and research in computer vision & data analysis
+  Building scalable web & mobile applications and researching computer vision & data analysis
 </p>
 
 ---
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joelington321&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelington321&layout=compact&langs_count=7&theme=dark"/>
-</div>
+### 👨‍💻 About Me
+- 💡 Experience in full-stack development with modern frameworks  
+- 📚 Currently pursuing a Master’s in Computer Science (UFOP)  
+- 🔬 Research in computer vision, image processing, and data-driven solutions  
+- 🚀 Passionate about scalable systems, APIs, and innovation  
 
 ---
 
@@ -26,14 +27,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</p>
-
----
-
-### 🖥️ IDEs & Editors
-<p align="left">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 </p>
 
 ---
